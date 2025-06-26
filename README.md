@@ -47,16 +47,15 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ---
 
-## 🔐 Notes
-
-All sample data in the `/data` folder has been anonymized or simulated for sharing purposes.
-
----
-
 ## 👩‍🔬 Author
 
 **Sruthi Jayaraj**  
 PhD in Environmental Engineering, IIT Madras  
 Program Associate – Air Quality, WRI India  
 📫 sruthijayaraj.19@gmail.com  
+
+🛑 **Note:** All content in this repository is © 2025 Sruthi Jayaraj. Reuse, redistribution, or reproduction is not permitted without explicit written permission.
+
+
+---
 
