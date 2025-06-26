@@ -33,7 +33,7 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ### GPS Interpolation Logic
 
-<img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Methodology.png" width="600"/>
+<img src=["C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Methodology.png"](https://github.com/Sruthi-Jayaraj199/Sensor-Based-PM-Exposure-Monitoring-/blob/main/Methodology/Data%20preprocessing.png) width="600"/>
 
 ---
 
