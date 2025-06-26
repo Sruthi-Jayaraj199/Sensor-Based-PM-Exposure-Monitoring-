@@ -24,7 +24,7 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ### PM Data Analysis Workflow
 
-<img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Data preprocessing.png" width="650"/>
+<img src="Methodology/Data preprocessing.png" width="650"/>
 
 - Raw data cleaning and time-zone standardization
 - Merging of GPS and pollutant data using ±2 seconds logic
@@ -33,7 +33,7 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ### GPS Interpolation Logic
 
-<img src=["C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Methodology.png"](https://github.com/Sruthi-Jayaraj199/Sensor-Based-PM-Exposure-Monitoring-/blob/main/Methodology/Data%20preprocessing.png) width="600"/>
+<img src="Methodology/Methodology.png" width="600"/>
 
 ---
 
