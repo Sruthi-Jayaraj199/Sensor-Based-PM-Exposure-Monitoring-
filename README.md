@@ -40,9 +40,9 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 ## 📊 Sample Outputs
 
 <p align="center">
-  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\PM10 monitoring.png" width="400"/>
-  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\PM2.5 monitoring.png" width="400"/>
-  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\CO monitoring.png" width="400"/>
+  <img src="plots/PM10 monitoring.png" width="400"/>
+  <img src="plots/PM2.5 monitoring.png" width="400"/>
+  <img src="plots/CO monitoring.png" width="400"/>
 </p>
 
 ---
