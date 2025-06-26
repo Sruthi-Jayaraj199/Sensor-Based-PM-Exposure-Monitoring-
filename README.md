@@ -1,29 +1,62 @@
-# Sensor-Based-PM-Exposure-Monitoring-
+![Methodology](https://github.com/user-attachments/assets/638fa642-c394-4d3d-a7a6-090e395ec131)# Sensor-Based PM Exposure Monitoring
+
 This repository contains R scripts and sample outputs from my ongoing work at WRI India. The focus is on monitoring and analyzing PM₂.₅ and PM₁₀ exposure using low-cost sensors and high-resolution DustTrak data.
 
-🔬 Key Features
+---
 
-Time-series trend analysis of PM₂.₅ and PM₁₀
+## 🔬 Key Features
 
-Integration of sensor and DustTrak data for spatial exposure pattern analysis
+- Time-series trend analysis of PM₂.₅ and PM₁₀  
+- Integration of sensor and DustTrak data for spatial exposure pattern analysis  
+- Categorization by weekday/weekend and peak/lean hours to understand the variation of pollution during different times and urban settings
 
-Categorization by weekday/weekend and peak/lean hours to understand the variation of pollution during different times and urban settings
+---
 
-🛠 Tools & Libraries
+## 🛠 Tools & Libraries
 
-R (tidyverse, lubridate, openair, ggplot2)
+- R (tidyverse, lubridate, openair, ggplot2)  
+- QGIS for spatial overlays  
+- Data collected via mobile and stationary platforms in Agra and Mumbai
 
-QGIS for spatial overlays
+---
 
-Data collected via mobile and stationary platforms in Agra and Mumbai
+## 🧪 Methodology
 
-📊 Sample Outputs
+### PM Data Analysis Workflow
 
-🔐 **Notes**
+<img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Data preprocessing.png" width="650"/>
 
-All sample data in the /data folder has been anonymized or simulated for sharing purposes.
+- Raw data cleaning and time-zone standardization
+- Merging of GPS and pollutant data using ±2 seconds logic
+- Averaging and categorization of data by time and space
+- Gridded interpolation and visualization over base maps using ggplot2 and QGIS
 
-👩‍🔬 **Author**
+### GPS Interpolation Logic
 
-Sruthi Jayaraj – PhD in Environmental Engineering, IIT Madras
-Program Associate – Air Quality, WRI India
+<img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\Methodology.png" width="600"/>
+
+---
+
+## 📊 Sample Outputs
+
+<p align="center">
+  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\PM10 monitoring.png" width="400"/>
+  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\PM2.5 monitoring.png" width="400"/>
+  <img src="C:\Users\sruthi.jayaraj\OneDrive - World Resources Institute\Desktop\CO monitoring.png" width="400"/>
+</p>
+
+---
+
+## 🔐 Notes
+
+All sample data in the `/data` folder has been anonymized or simulated for sharing purposes.
+
+---
+
+## 👩‍🔬 Author
+
+**Sruthi Jayaraj**  
+PhD in Environmental Engineering, IIT Madras  
+Program Associate – Air Quality, WRI India  
+📫 sruthijayaraj.19@gmail.com  
+
