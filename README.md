@@ -1,4 +1,4 @@
-![Methodology](https://github.com/user-attachments/assets/638fa642-c394-4d3d-a7a6-090e395ec131)# Sensor-Based PM Exposure Monitoring
+# Sensor-Based PM Exposure Monitoring
 
 This repository contains R scripts and sample outputs from my ongoing work at WRI India. The focus is on monitoring and analyzing PM₂.₅ and PM₁₀ exposure using low-cost sensors and high-resolution DustTrak data.
 
