@@ -24,7 +24,7 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ### PM Data Analysis Workflow
 
-<img src="Methodology/Data preprocessing.png" width="650"/>
+<img src="Data preprocessing.png" width="650"/>
 
 - Raw data cleaning and time-zone standardization
 - Merging of GPS and pollutant data using ±2 seconds logic
@@ -33,16 +33,16 @@ This repository contains R scripts and sample outputs from my ongoing work at WR
 
 ### GPS Interpolation Logic
 
-<img src="Methodology/Methodology.png" width="600"/>
+<img src="Methodology.png" width="600"/>
 
 ---
 
 ## 📊 Sample Outputs
 
 <p align="center">
-  <img src="plots/PM10 monitoring.png" width="400"/>
-  <img src="plots/PM2.5 monitoring.png" width="400"/>
-  <img src="plots/CO monitoring.png" width="400"/>
+  <img src="PM10 monitoring.png" width="400"/>
+  <img src="PM2.5 monitoring.png" width="400"/>
+  <img src="CO monitoring.png" width="400"/>
 </p>
 
 ---
